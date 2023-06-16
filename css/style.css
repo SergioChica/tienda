@@ -1,0 +1,23 @@
+main{
+    margin: 33px 33px;
+    background-color: blanchedalmond;
+}
+
+.wrapper{
+    margin: auto;
+    width: 90vw;
+    min-height: 100vh;
+}
+
+.titulo{
+    color: black;
+}
+
+.card{
+    width: 30%;
+    display: inline-block;
+}
+
+.card-image{
+    width: 80%;
+}
